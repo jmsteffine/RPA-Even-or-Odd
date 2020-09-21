@@ -1,0 +1,4 @@
+09/14/2020 16:25:48 => [Debug] Execution started for file: Main
+09/14/2020 16:25:48 => [Info] Even or Odd execution started
+09/14/2020 16:25:53 => [Info] The number 100 is even.
+09/14/2020 16:25:53 => [Info] Even or Odd execution ended in: 00:00:05
